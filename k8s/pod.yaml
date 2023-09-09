@@ -12,7 +12,7 @@ spec:
 
   - name: todo-app
 
-    image: pratulb/todo-app:latest
+    image: pratulb/django-todo:latest
 
     ports:
 
