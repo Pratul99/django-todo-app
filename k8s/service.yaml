@@ -7,6 +7,6 @@ spec:
   selector:
     app: todo-app
   ports:
-    - port: 8000
+    - port: 80
       targetPort: 8000
       nodePort: 30007
